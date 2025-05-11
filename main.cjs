@@ -5,8 +5,8 @@ let win; // declare it globally so ipcMain handlers can access it
 
 function createWindow () {
   win = new BrowserWindow({
-    width: 1000,
-    height: 700,
+    width: 800,
+    height: 500,
     frame: false,
     titleBarStyle: 'hidden',
     icon: path.join(__dirname, 'icon.png'),

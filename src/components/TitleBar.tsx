@@ -8,7 +8,7 @@ export function TitleBar() {
   
     return (
       <div
-        className="w-full bg-[#ffffff] text-black flex items-center justify-between select-none" style={{ WebkitAppRegion: 'drag' } as React.CSSProperties}>
+        className="fixed w-full h-[36px] text-black flex items-center justify-between select-none" style={{ WebkitAppRegion: 'drag' } as React.CSSProperties}>
         <img src="/icon.png" className="absolute top-0 ml-[14px] mt-[6px] w-[28px] h-[28px]"/>
   
         <div className="absolute right-0 top-0 flex items-center" style={{ WebkitAppRegion: 'no-drag' } as React.CSSProperties}>

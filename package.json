@@ -14,6 +14,12 @@
     "@tailwindcss/vite": "^4.1.6",
     "electron-custom-titlebar": "^4.0.2",
     "lucide-react": "^0.509.0",
+    "prosemirror-commands": "^1.7.1",
+    "prosemirror-history": "^1.4.1",
+    "prosemirror-keymap": "^1.2.3",
+    "prosemirror-model": "^1.25.1",
+    "prosemirror-state": "^1.4.3",
+    "prosemirror-view": "^1.39.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "tailwindcss": "^4.1.6"
